@@ -1,10 +1,10 @@
 # Table of Contents
 
 1. [Introduction](#Overview)
-2. [Java 8](#New Features in Java 8)
-3. [Java 9,10,11](#New Features in Java 9 10 and 11)
-4. [Java 12 to 17](#contributing)
-5. [Java 18 to 21](#contributing)
+2. [Java 8](#Java 8)
+3. [Java 9,10,11](#Java 9 10 and 11)
+4. [Java 12 to 17](#New Features in Java 12 to 17)
+5. [Java 18 to 21](#New Features in Java Versions 18 to 21)
 
 ---
 
@@ -151,7 +151,7 @@ Java 7 and Earlier:
 // Date and Calendar classes were cumbersome to use and prone to errors.
 // Handling date operations required intricate code with potential bugs.
 
-# New Features in Java 9, 10, and 11
+# Java 9, 10, and 11
 #### Module System  
 #### JShell (Interactive Java REPL)  
 #### Local Variable Type Inference  
