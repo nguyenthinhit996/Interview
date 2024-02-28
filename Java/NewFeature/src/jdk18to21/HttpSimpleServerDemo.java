@@ -1,4 +1,4 @@
-package jdk21;
+package jdk18to21;
 
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
