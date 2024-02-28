@@ -2,7 +2,7 @@
 
 1. [Introduction](#Overview)
 2. [Java 8](#Java-8)
-3. [Java 9,10,11](#Java-9,-10,-and-11)
+3. [Java 9,10,11](#Java-9-to-11)
 4. [Java 12 to 17](#Java-12-to-17)
 5. [Java 18 to 21](#Java-18-to-21)
 
@@ -154,7 +154,7 @@ Java 7 and Earlier:
 // Date and Calendar classes were cumbersome to use and prone to errors.
 // Handling date operations required intricate code with potential bugs.
 
-# Java 9, 10, and 11
+# Java 9 to 11 
 #### Module System  
 #### JShell (Interactive Java REPL)  
 #### Local Variable Type Inference  
