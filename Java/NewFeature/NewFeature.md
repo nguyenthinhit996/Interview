@@ -1,46 +1,49 @@
 # Table of Contents
 
 1. [Introduction](#Overview)
-2. [Java 8](#Java 8)
-3. [Java 9,10,11](#Java 9 10 and 11)
-4. [Java 12 to 17](#New Features in Java 12 to 17)
-5. [Java 18 to 21](#New Features in Java Versions 18 to 21)
+2. [Java 8](#Java-8)
+3. [Java 9,10,11](#Java-9,-10,-and-11)
+4. [Java 12 to 17](#Java-12-to-17)
+5. [Java 18 to 21](#Java-18-to-21)
 
 ---
 
 # Overview
-## Java 8
-#### Lambda-Function
-#### StreamAPI
-#### Default Methods
-#### Optional Class
-#### Date-Time API
+```text
+Java 8  
+  Lambda-Function  
+  StreamAPI  
+  Default Methods  
+  Optional Class  
+  Date-Time API  
 
-## Java 9, 10, and 11
-#### Module System
-#### JShell (Interactive Java REPL)
-#### Local Variable Type Inference
-#### Local Variable Syntax for Lambda Parameters
+Java 9, 10, and 11
+  Module System
+  JShell (Interactive Java REPL)
+  Local Variable Type Inference
+  Local Variable Syntax for Lambda Parameters
 
-## Java 12 to 17
-#### Switch Expressions
-#### Text Blocks
-#### Records
-#### Sealed Classes and Interfaces
-#### Pattern Matching for instanceof
-#### Strong Encapsulation of JDK Internals by Default
+Java 12 to 17
+  Switch Expressions
+  Text Blocks
+  Records
+  Sealed Classes and Interfaces
+  Pattern Matching for instanceof
+  Strong Encapsulation of JDK Internals by Default
 
-## 18 to 21
-#### Simple Web Server
-#### Virtual Threads
-#### Record Patterns
-#### Scoped Values
-#### Unnamed Variables
+18 to 21
+  Simple Web Server
+  Virtual Threads
+  Record Patterns
+  Scoped Values
+  Unnamed Variables
 
-## Deprecation and removal
-Deprecate Thread.stop for removal  
-Remove Java EE  
-Remove the javah tool  
+Deprecation and removal
+  Deprecate Thread.stop for removal  
+  Remove Java EE  
+  Remove the javah tool  
+
+```
 
 -----
 # Java 8
@@ -247,7 +250,7 @@ System.out.println(response.toString());
 
 ```
 
-# New Features in Java 12 to 17
+# Java 12 to 17
 
 Java 12 to 17 bring several enhancements and new features to the language and platform, further improving developer productivity and performance. Let's explore some of the key features of each version and compare them with previous versions.
 
@@ -413,7 +416,7 @@ public class Main {
 ```
 
 
-## New Features in Java Versions 18 to 21
+## Java 18 to 21
 
 This document highlights the new features introduced in Java versions 18 through 21, providing examples to compare these features with the functionality available in Java 17 and earlier.
 
